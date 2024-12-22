@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Abdul Qadir!
 
 🎓 **Computer Science Undergrad** | 🔒 **Aspiring Cybersecurity Professional**  
-🌟 Passionate about **digital security** 
+🌟 Passionate about **digital security**  
 🌱 Currently learning **red team operations** and preparing for **CEH Certification**  
 
 ---
@@ -24,13 +24,15 @@
 ---
 
 ## 🛠 Projects:
-- **✨ Want to explore my projects? Check out my Projects! ✨**: [Visit Medium]([https://medium.com](https://medium.com/@aqjakhro0))
+- **✨ Want to explore my blogs? Check out my Medium! ✨**  
+  [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aqjakhro0)
 
 ---
 
 ## 📫 Connect with Me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqjakhro0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulqadir)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqjakhro0@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulqadir)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aqjakhro0)
 
 ---
 
