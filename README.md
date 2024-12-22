@@ -1,14 +1,38 @@
-### Hi there 👋, I'm Abdul Qadir!
+# Hi there 👋, I'm Abdul Qadir!
 
-- 🎓 Computer Science student, passionate about software development and AI.
-- 💻 I specialize in Java and am expanding my skills in Data Structures and Algorithms.
-- 🌱 Currently learning GitHub and sharpening my DSA knowledge.
-- 🔍 Open to collaborating on innovative projects.
-- 📫 Reach me at [aqjakhro0@gmail.com](mailto:aqjakhro0@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/abdulqadir004).
+🎓 **Computer Science Undergrad** | 🔒 **Aspiring Cybersecurity Professional**  
+🌟 Passionate about **digital security** 
+🌱 Currently learning **red team operations** and preparing for **CEH Certification**  
 
-### SKILLS:
-- **Programming Languages:** Java, C, SQL
-- **Database Management:** MySQL
-- **Version Control:** Git, GitHub
-- **Object Oriented Programming**
-- **Data Structures and Algorithms**
+---
+
+## 🔧 Skills & Tools:
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Database & Version Control**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### **Cybersecurity**
+![Networking](https://img.shields.io/badge/Networking-BLUE?style=for-the-badge)
+![Red Teaming](https://img.shields.io/badge/Red%20Teaming-FF0000?style=for-the-badge)
+
+---
+
+## 🛠 Projects:
+- **✨ Want to explore my projects? Check out my Projects! ✨**: [Visit Medium]([https://medium.com](https://medium.com/@aqjakhro0))
+
+---
+
+## 📫 Connect with Me:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqjakhro0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulqadir)
+
+---
+
+### 🚀 Fun Fact:
+> I’m dedicated to enhancing digital security and protecting systems from evolving cyber threats.
