@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abdul Qadir!
 
-🎓 **Computer Science Undergrad** | 🔒 **Aspiring Cybersecurity Professional**  
+🎓 **Computer Science Undergrad** | 🔒 **Google Certified Cybersecurity Professional**  
 🌟 Passionate about **digital security**  
 🌱 Currently learning **red team operations**
 
